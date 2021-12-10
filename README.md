@@ -1,46 +1,81 @@
-<h1 align="center">🩸 (VERSION-100) FAST CRACK TOOL 👌</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gupta-shakel&label=Profile%20views&color=0e75b6&style=flat" alt="gupta-shakel" /> </p>
+<img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/GUPTA-SHAKEL.gif" width="120" height="120" align="left">
+<center>
+  
+  
+ 
+   ##  MY SOCIAL MEDIA : <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gupta-shakel" alt="gupta-shakel" /></a> </p>
+<a href="https://Instagram.com/mark.cornel97" target="_blank"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
+<a href="wa.me/+2347013107449"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/WhatsApp.png" alt="alt text" width="25" height="25"></a>
+<a href="https://www.facebook.com/Clinton.ngozi68" target="_blank"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/MARK-TECH"><img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
+  
+____Programming And Memes____
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+CONTACT WITH <a href="https://github.com/GUPTA-SHAKEL"><b>MARK-CORNEL </a> </br><br>
+<img src="https://github.com/GUPTA-SHAKEL/GUPTA/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
+<p>ngozic328@gmail.com</p>  <br> <br> 
 
-- pkg **update**
 
-- pkg **upgrade**
+<a href="https://github.com/GUPTA-SHAKEL/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/GUPTA-SHAKEL?label=Followers&color=blue&style=flat-square"></a>
 
-- pip2 **install requests**
+<br>
+  <a href="https://github.com/GUPTA-SHAKEL/termux-style/stargazers/">
+  <a href="https://github.com/GUPTA-SHAKEL/Mark-Tech">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/GUPTA-SHAKEL/Mark-Tech.svg"/>
+  </a>
+<br>
+  <a href="https://github.com/GUPTA-SHAKEL/Mark-Tech">
+    <img alt="Language" src="https://img.shields.io/github/languages/count/GUPTA-SHAKEL/Mark-Tech.svg"/>
+  </a>
+  <a href="https://github.com/GUPTA-SHAKEL/Mark-Tech">
+    <img alt="Starts" src="https://img.shields.io/github/stars/GUPTA-SHAKEL/Mark-Tech.svg"/>
+  </a>
+<br>
+<a href="https://github.com/GUPTA-SHAKEL/Mark-Tech">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/GUPTA-SHAKEL/Mark-Tech.svg"/>
+  </a>
+<br>
+<a href="https://github.com/GUPTA-SHAKEL/Mark-Tech">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/GUPTA-SHAKEL/Mark-Tech.svg"/> <a                                                                                                        href="https://github.com/GUPTA-SHAKEL/Mark-Tech">
+    <img alt="Forks" src="https://img.shields.io/github/forks/GUPTA-SHAKEL/Mark-Tech.svg"/>
+  </a>
+</div>
 
-- pkg **install python**
-
-- pkg **install python2**
-
-- pkg install git
-
-- git clone [https://github.com/GUPTA-SHAKEL/Version-100.git](https://github.com/GUPTA-SHAKEL/Version-100.git)
-
-- pip2 **install mechanize**
-
-- pip2 **install bs4**
-
-- cd [Version-100](Version-100)
-
-- python2 **V100.Max**
-
-INBOX ME FOR TOOL ACTIVATION
-(+2347013107449) ENJOY ❤️
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/gupta.shakel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gupta.shakel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mark-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mark-tech" height="30" width="40" /></a>
+</br>
+<p align="center">
+      FACEBOOK ACCOUNT CLONER
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+#### INSTALL TOOL ON TERMUX
+```python
+$ apt update && apt upgrade
+$ apt install python2
+$ pip2 install mechanize lolcat
+$ pip2 install requests bs4
+$ pip2 install futures
+$ apt install git
+$ git clone https://github.com/GUPTA-SHAKEL/Version-100.git
+```
+#### RUN SCRIPT
+```python2
+$ cd Version-100
+$ git pull
+$ python2 V100.Max
+```
+#### :closed_lock_with_key: KEY PASSWORD ⁉️
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta-shakel&show_icons=true&locale=en&layout=compact" alt="gupta-shakel" /></p>
+#### JOIN WHATSAPP GROUP <br>
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GDRQ6zWEpLgJaktguESvx5)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gupta-shakel&show_icons=true&locale=en" alt="gupta-shakel" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gupta-shakel&" alt="gupta-shakel" /></p>
+#### MY SOCIAL MEDIA
+
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/GUPTA-SHAKEL) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/Clinton.ngozi68) <br>
+[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/mark.cornel97) <br>
+
+
+<h2> THANKS FOR VISIT ✘✘ <h2\>
